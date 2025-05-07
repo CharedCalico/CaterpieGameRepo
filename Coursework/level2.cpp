@@ -69,7 +69,7 @@ level2::level2(sf::RenderWindow* hwnd, Input* in, GameState* gs, AudioManager* a
 
 	camera = new Camera(window, &player, background.getCollisionBox());
 
-	timeRemaning = 20;
+	timeRemaning = 15;
 
 
 	//UI:
@@ -220,7 +220,7 @@ void level2::update(float dt)
 					if (Thanatos[kill]->getType() == GameObject::ENEMY)
 						//Using an enum tag to check for dead enemies instead of dynamic casting to the enemy class for ease
 					{
-						player.addScore(5);
+						player.addScore(10);
 					}
 				}
 				i++;
@@ -263,7 +263,7 @@ void level2::update(float dt)
 		if (player.getHp() > 0)
 		{
 			player.setHp(player.getHp() - 1);
-			timeRemaning += 3;
+			timeRemaning += 2;
 			audio->playSoundbyName("TimerDamage");
 		}
 		else
@@ -288,8 +288,8 @@ void level2::update(float dt)
 	{
 
 		treats.randomisePOI();
-		player.addScore(+100);
-		timeRemaning += 5;
+		player.addScore(+300);
+		timeRemaning += 2;
 
 	}
 
