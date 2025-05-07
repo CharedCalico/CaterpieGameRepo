@@ -1,0 +1,320 @@
+﻿  AiCompanion.cpp
+  Arrow.cpp
+E:\visual\fork\Coursework\CMP105App\Arrow.cpp(40,86): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+E:\visual\fork\Coursework\CMP105App\Arrow.cpp(40,86): warning C4244:         with
+E:\visual\fork\Coursework\CMP105App\Arrow.cpp(40,86): warning C4244:         [
+E:\visual\fork\Coursework\CMP105App\Arrow.cpp(40,86): warning C4244:             T=float
+E:\visual\fork\Coursework\CMP105App\Arrow.cpp(40,86): warning C4244:         ]
+E:\visual\fork\Coursework\CMP105App\Arrow.cpp(40,86): warning C4244:         and
+E:\visual\fork\Coursework\CMP105App\Arrow.cpp(40,86): warning C4244:         [
+E:\visual\fork\Coursework\CMP105App\Arrow.cpp(40,86): warning C4244:             T=int
+E:\visual\fork\Coursework\CMP105App\Arrow.cpp(40,86): warning C4244:         ]
+E:\visual\fork\Coursework\CMP105App\Arrow.cpp(40,61): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+E:\visual\fork\Coursework\CMP105App\Arrow.cpp(40,61): warning C4244:         with
+E:\visual\fork\Coursework\CMP105App\Arrow.cpp(40,61): warning C4244:         [
+E:\visual\fork\Coursework\CMP105App\Arrow.cpp(40,61): warning C4244:             T=float
+E:\visual\fork\Coursework\CMP105App\Arrow.cpp(40,61): warning C4244:         ]
+E:\visual\fork\Coursework\CMP105App\Arrow.cpp(40,61): warning C4244:         and
+E:\visual\fork\Coursework\CMP105App\Arrow.cpp(40,61): warning C4244:         [
+E:\visual\fork\Coursework\CMP105App\Arrow.cpp(40,61): warning C4244:             T=int
+E:\visual\fork\Coursework\CMP105App\Arrow.cpp(40,61): warning C4244:         ]
+E:\visual\fork\Coursework\CMP105App\Arrow.cpp(43,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  AttackRadius.cpp
+  Button.cpp
+E:\visual\fork\Coursework\CMP105App\Button.cpp(14,20): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+E:\visual\fork\Coursework\CMP105App\Button.cpp(14,20): warning C4244:         with
+E:\visual\fork\Coursework\CMP105App\Button.cpp(14,20): warning C4244:         [
+E:\visual\fork\Coursework\CMP105App\Button.cpp(14,20): warning C4244:             T=unsigned int
+E:\visual\fork\Coursework\CMP105App\Button.cpp(14,20): warning C4244:         ]
+E:\visual\fork\Coursework\CMP105App\Button.cpp(15,21): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+E:\visual\fork\Coursework\CMP105App\Button.cpp(15,21): warning C4244:         with
+E:\visual\fork\Coursework\CMP105App\Button.cpp(15,21): warning C4244:         [
+E:\visual\fork\Coursework\CMP105App\Button.cpp(15,21): warning C4244:             T=unsigned int
+E:\visual\fork\Coursework\CMP105App\Button.cpp(15,21): warning C4244:         ]
+E:\visual\fork\Coursework\CMP105App\Button.cpp(53,20): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+E:\visual\fork\Coursework\CMP105App\Button.cpp(53,20): warning C4244:         with
+E:\visual\fork\Coursework\CMP105App\Button.cpp(53,20): warning C4244:         [
+E:\visual\fork\Coursework\CMP105App\Button.cpp(53,20): warning C4244:             T=unsigned int
+E:\visual\fork\Coursework\CMP105App\Button.cpp(53,20): warning C4244:         ]
+E:\visual\fork\Coursework\CMP105App\Button.cpp(54,21): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+E:\visual\fork\Coursework\CMP105App\Button.cpp(54,21): warning C4244:         with
+E:\visual\fork\Coursework\CMP105App\Button.cpp(54,21): warning C4244:         [
+E:\visual\fork\Coursework\CMP105App\Button.cpp(54,21): warning C4244:             T=unsigned int
+E:\visual\fork\Coursework\CMP105App\Button.cpp(54,21): warning C4244:         ]
+E:\visual\fork\Coursework\CMP105App\Button.cpp(83,85): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+E:\visual\fork\Coursework\CMP105App\Button.cpp(83,85): warning C4244:         with
+E:\visual\fork\Coursework\CMP105App\Button.cpp(83,85): warning C4244:         [
+E:\visual\fork\Coursework\CMP105App\Button.cpp(83,85): warning C4244:             T=unsigned int
+E:\visual\fork\Coursework\CMP105App\Button.cpp(83,85): warning C4244:         ]
+E:\visual\fork\Coursework\CMP105App\Button.cpp(83,85): warning C4244:         and
+E:\visual\fork\Coursework\CMP105App\Button.cpp(83,85): warning C4244:         [
+E:\visual\fork\Coursework\CMP105App\Button.cpp(83,85): warning C4244:             T=float
+E:\visual\fork\Coursework\CMP105App\Button.cpp(83,85): warning C4244:         ]
+E:\visual\fork\Coursework\CMP105App\Button.cpp(83,55): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+E:\visual\fork\Coursework\CMP105App\Button.cpp(83,55): warning C4244:         with
+E:\visual\fork\Coursework\CMP105App\Button.cpp(83,55): warning C4244:         [
+E:\visual\fork\Coursework\CMP105App\Button.cpp(83,55): warning C4244:             T=unsigned int
+E:\visual\fork\Coursework\CMP105App\Button.cpp(83,55): warning C4244:         ]
+E:\visual\fork\Coursework\CMP105App\Button.cpp(83,55): warning C4244:         and
+E:\visual\fork\Coursework\CMP105App\Button.cpp(83,55): warning C4244:         [
+E:\visual\fork\Coursework\CMP105App\Button.cpp(83,55): warning C4244:             T=float
+E:\visual\fork\Coursework\CMP105App\Button.cpp(83,55): warning C4244:         ]
+  Enemy.cpp
+E:\visual\fork\Coursework\CMP105App\Enemy.cpp(11,10): warning C4305: '=': truncation from 'double' to 'float'
+  Camera.cpp
+E:\visual\fork\Coursework\CMP105App\Camera.cpp(8,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+E:\visual\fork\Coursework\CMP105App\Camera.cpp(17,86): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Animation.cpp
+  AudioManager.cpp
+  BaseLevel.cpp
+  Collision.cpp
+  GameState.cpp
+  Input.cpp
+  MusicObject.cpp
+  GameObject.cpp
+E:\visual\fork\Coursework\CMP105App\Framework\GameObject.cpp(44,48): warning C4244: '+=': conversion from 'T' to 'T', possible loss of data
+E:\visual\fork\Coursework\CMP105App\Framework\GameObject.cpp(44,48): warning C4244:         with
+E:\visual\fork\Coursework\CMP105App\Framework\GameObject.cpp(44,48): warning C4244:         [
+E:\visual\fork\Coursework\CMP105App\Framework\GameObject.cpp(44,48): warning C4244:             T=float
+E:\visual\fork\Coursework\CMP105App\Framework\GameObject.cpp(44,48): warning C4244:         ]
+E:\visual\fork\Coursework\CMP105App\Framework\GameObject.cpp(44,48): warning C4244:         and
+E:\visual\fork\Coursework\CMP105App\Framework\GameObject.cpp(44,48): warning C4244:         [
+E:\visual\fork\Coursework\CMP105App\Framework\GameObject.cpp(44,48): warning C4244:             T=int
+E:\visual\fork\Coursework\CMP105App\Framework\GameObject.cpp(44,48): warning C4244:         ]
+E:\visual\fork\Coursework\CMP105App\Framework\GameObject.cpp(45,49): warning C4244: '+=': conversion from 'T' to 'T', possible loss of data
+E:\visual\fork\Coursework\CMP105App\Framework\GameObject.cpp(45,49): warning C4244:         with
+E:\visual\fork\Coursework\CMP105App\Framework\GameObject.cpp(45,49): warning C4244:         [
+E:\visual\fork\Coursework\CMP105App\Framework\GameObject.cpp(45,49): warning C4244:             T=float
+E:\visual\fork\Coursework\CMP105App\Framework\GameObject.cpp(45,49): warning C4244:         ]
+E:\visual\fork\Coursework\CMP105App\Framework\GameObject.cpp(45,49): warning C4244:         and
+E:\visual\fork\Coursework\CMP105App\Framework\GameObject.cpp(45,49): warning C4244:         [
+E:\visual\fork\Coursework\CMP105App\Framework\GameObject.cpp(45,49): warning C4244:             T=int
+E:\visual\fork\Coursework\CMP105App\Framework\GameObject.cpp(45,49): warning C4244:         ]
+E:\visual\fork\Coursework\CMP105App\Framework\GameObject.cpp(46,69): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+E:\visual\fork\Coursework\CMP105App\Framework\GameObject.cpp(46,69): warning C4244:         with
+E:\visual\fork\Coursework\CMP105App\Framework\GameObject.cpp(46,69): warning C4244:         [
+E:\visual\fork\Coursework\CMP105App\Framework\GameObject.cpp(46,69): warning C4244:             T=float
+E:\visual\fork\Coursework\CMP105App\Framework\GameObject.cpp(46,69): warning C4244:         ]
+E:\visual\fork\Coursework\CMP105App\Framework\GameObject.cpp(46,69): warning C4244:         and
+E:\visual\fork\Coursework\CMP105App\Framework\GameObject.cpp(46,69): warning C4244:         [
+E:\visual\fork\Coursework\CMP105App\Framework\GameObject.cpp(46,69): warning C4244:             T=int
+E:\visual\fork\Coursework\CMP105App\Framework\GameObject.cpp(46,69): warning C4244:         ]
+E:\visual\fork\Coursework\CMP105App\Framework\GameObject.cpp(46,48): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+E:\visual\fork\Coursework\CMP105App\Framework\GameObject.cpp(46,48): warning C4244:         with
+E:\visual\fork\Coursework\CMP105App\Framework\GameObject.cpp(46,48): warning C4244:         [
+E:\visual\fork\Coursework\CMP105App\Framework\GameObject.cpp(46,48): warning C4244:             T=float
+E:\visual\fork\Coursework\CMP105App\Framework\GameObject.cpp(46,48): warning C4244:         ]
+E:\visual\fork\Coursework\CMP105App\Framework\GameObject.cpp(46,48): warning C4244:         and
+E:\visual\fork\Coursework\CMP105App\Framework\GameObject.cpp(46,48): warning C4244:         [
+E:\visual\fork\Coursework\CMP105App\Framework\GameObject.cpp(46,48): warning C4244:             T=int
+E:\visual\fork\Coursework\CMP105App\Framework\GameObject.cpp(46,48): warning C4244:         ]
+E:\visual\fork\Coursework\CMP105App\Framework\GameObject.cpp(50,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\visual\fork\Coursework\CMP105App\Framework\GameObject.cpp(51,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  SoundObject.cpp
+  TileMap.cpp
+  VectorHelper.cpp
+  Level.cpp
+E:\visual\fork\Coursework\CMP105App\Level.cpp(10,17): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+E:\visual\fork\Coursework\CMP105App\Level.cpp(10,17): warning C4244:         with
+E:\visual\fork\Coursework\CMP105App\Level.cpp(10,17): warning C4244:         [
+E:\visual\fork\Coursework\CMP105App\Level.cpp(10,17): warning C4244:             T=float
+E:\visual\fork\Coursework\CMP105App\Level.cpp(10,17): warning C4244:         ]
+E:\visual\fork\Coursework\CMP105App\Level.cpp(11,17): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+E:\visual\fork\Coursework\CMP105App\Level.cpp(11,17): warning C4244:         with
+E:\visual\fork\Coursework\CMP105App\Level.cpp(11,17): warning C4244:         [
+E:\visual\fork\Coursework\CMP105App\Level.cpp(11,17): warning C4244:             T=float
+E:\visual\fork\Coursework\CMP105App\Level.cpp(11,17): warning C4244:         ]
+E:\visual\fork\Coursework\CMP105App\Level.cpp(18,42): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+E:\visual\fork\Coursework\CMP105App\Level.cpp(18,42): warning C4244:         with
+E:\visual\fork\Coursework\CMP105App\Level.cpp(18,42): warning C4244:         [
+E:\visual\fork\Coursework\CMP105App\Level.cpp(18,42): warning C4244:             T=float
+E:\visual\fork\Coursework\CMP105App\Level.cpp(18,42): warning C4244:         ]
+E:\visual\fork\Coursework\CMP105App\Level.cpp(22,42): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+E:\visual\fork\Coursework\CMP105App\Level.cpp(22,42): warning C4244:         with
+E:\visual\fork\Coursework\CMP105App\Level.cpp(22,42): warning C4244:         [
+E:\visual\fork\Coursework\CMP105App\Level.cpp(22,42): warning C4244:             T=float
+E:\visual\fork\Coursework\CMP105App\Level.cpp(22,42): warning C4244:         ]
+E:\visual\fork\Coursework\CMP105App\Level.cpp(30,42): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+E:\visual\fork\Coursework\CMP105App\Level.cpp(30,42): warning C4244:         with
+E:\visual\fork\Coursework\CMP105App\Level.cpp(30,42): warning C4244:         [
+E:\visual\fork\Coursework\CMP105App\Level.cpp(30,42): warning C4244:             T=float
+E:\visual\fork\Coursework\CMP105App\Level.cpp(30,42): warning C4244:         ]
+E:\visual\fork\Coursework\CMP105App\Level.cpp(34,42): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+E:\visual\fork\Coursework\CMP105App\Level.cpp(34,42): warning C4244:         with
+E:\visual\fork\Coursework\CMP105App\Level.cpp(34,42): warning C4244:         [
+E:\visual\fork\Coursework\CMP105App\Level.cpp(34,42): warning C4244:             T=float
+E:\visual\fork\Coursework\CMP105App\Level.cpp(34,42): warning C4244:         ]
+E:\visual\fork\Coursework\CMP105App\Level.cpp(69,76): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+E:\visual\fork\Coursework\CMP105App\Level.cpp(69,76): warning C4244:         with
+E:\visual\fork\Coursework\CMP105App\Level.cpp(69,76): warning C4244:         [
+E:\visual\fork\Coursework\CMP105App\Level.cpp(69,76): warning C4244:             T=unsigned int
+E:\visual\fork\Coursework\CMP105App\Level.cpp(69,76): warning C4244:         ]
+E:\visual\fork\Coursework\CMP105App\Level.cpp(69,76): warning C4244:         and
+E:\visual\fork\Coursework\CMP105App\Level.cpp(69,76): warning C4244:         [
+E:\visual\fork\Coursework\CMP105App\Level.cpp(69,76): warning C4244:             T=float
+E:\visual\fork\Coursework\CMP105App\Level.cpp(69,76): warning C4244:         ]
+E:\visual\fork\Coursework\CMP105App\Level.cpp(69,53): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+E:\visual\fork\Coursework\CMP105App\Level.cpp(69,53): warning C4244:         with
+E:\visual\fork\Coursework\CMP105App\Level.cpp(69,53): warning C4244:         [
+E:\visual\fork\Coursework\CMP105App\Level.cpp(69,53): warning C4244:             T=unsigned int
+E:\visual\fork\Coursework\CMP105App\Level.cpp(69,53): warning C4244:         ]
+E:\visual\fork\Coursework\CMP105App\Level.cpp(69,53): warning C4244:         and
+E:\visual\fork\Coursework\CMP105App\Level.cpp(69,53): warning C4244:         [
+E:\visual\fork\Coursework\CMP105App\Level.cpp(69,53): warning C4244:             T=float
+E:\visual\fork\Coursework\CMP105App\Level.cpp(69,53): warning C4244:         ]
+E:\visual\fork\Coursework\CMP105App\Level.cpp(71,80): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+E:\visual\fork\Coursework\CMP105App\Level.cpp(71,80): warning C4244:         with
+E:\visual\fork\Coursework\CMP105App\Level.cpp(71,80): warning C4244:         [
+E:\visual\fork\Coursework\CMP105App\Level.cpp(71,80): warning C4244:             T=unsigned int
+E:\visual\fork\Coursework\CMP105App\Level.cpp(71,80): warning C4244:         ]
+E:\visual\fork\Coursework\CMP105App\Level.cpp(71,55): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+E:\visual\fork\Coursework\CMP105App\Level.cpp(71,55): warning C4244:         with
+E:\visual\fork\Coursework\CMP105App\Level.cpp(71,55): warning C4244:         [
+E:\visual\fork\Coursework\CMP105App\Level.cpp(71,55): warning C4244:             T=unsigned int
+E:\visual\fork\Coursework\CMP105App\Level.cpp(71,55): warning C4244:         ]
+E:\visual\fork\Coursework\CMP105App\Level.cpp(214,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\visual\fork\Coursework\CMP105App\Level.cpp(320,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+E:\visual\fork\Coursework\CMP105App\Level.cpp(326,12): warning C4553: '==': result of expression not used; did you intend '='?
+  level2.cpp
+E:\visual\fork\Coursework\CMP105App\level2.cpp(6,17): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+E:\visual\fork\Coursework\CMP105App\level2.cpp(6,17): warning C4244:         with
+E:\visual\fork\Coursework\CMP105App\level2.cpp(6,17): warning C4244:         [
+E:\visual\fork\Coursework\CMP105App\level2.cpp(6,17): warning C4244:             T=float
+E:\visual\fork\Coursework\CMP105App\level2.cpp(6,17): warning C4244:         ]
+E:\visual\fork\Coursework\CMP105App\level2.cpp(7,17): warning C4244: 'initializing': conversion from 'const T' to 'int', possible loss of data
+E:\visual\fork\Coursework\CMP105App\level2.cpp(7,17): warning C4244:         with
+E:\visual\fork\Coursework\CMP105App\level2.cpp(7,17): warning C4244:         [
+E:\visual\fork\Coursework\CMP105App\level2.cpp(7,17): warning C4244:             T=float
+E:\visual\fork\Coursework\CMP105App\level2.cpp(7,17): warning C4244:         ]
+E:\visual\fork\Coursework\CMP105App\level2.cpp(14,42): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+E:\visual\fork\Coursework\CMP105App\level2.cpp(14,42): warning C4244:         with
+E:\visual\fork\Coursework\CMP105App\level2.cpp(14,42): warning C4244:         [
+E:\visual\fork\Coursework\CMP105App\level2.cpp(14,42): warning C4244:             T=float
+E:\visual\fork\Coursework\CMP105App\level2.cpp(14,42): warning C4244:         ]
+E:\visual\fork\Coursework\CMP105App\level2.cpp(18,42): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+E:\visual\fork\Coursework\CMP105App\level2.cpp(18,42): warning C4244:         with
+E:\visual\fork\Coursework\CMP105App\level2.cpp(18,42): warning C4244:         [
+E:\visual\fork\Coursework\CMP105App\level2.cpp(18,42): warning C4244:             T=float
+E:\visual\fork\Coursework\CMP105App\level2.cpp(18,42): warning C4244:         ]
+E:\visual\fork\Coursework\CMP105App\level2.cpp(26,42): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+E:\visual\fork\Coursework\CMP105App\level2.cpp(26,42): warning C4244:         with
+E:\visual\fork\Coursework\CMP105App\level2.cpp(26,42): warning C4244:         [
+E:\visual\fork\Coursework\CMP105App\level2.cpp(26,42): warning C4244:             T=float
+E:\visual\fork\Coursework\CMP105App\level2.cpp(26,42): warning C4244:         ]
+E:\visual\fork\Coursework\CMP105App\level2.cpp(30,42): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+E:\visual\fork\Coursework\CMP105App\level2.cpp(30,42): warning C4244:         with
+E:\visual\fork\Coursework\CMP105App\level2.cpp(30,42): warning C4244:         [
+E:\visual\fork\Coursework\CMP105App\level2.cpp(30,42): warning C4244:             T=float
+E:\visual\fork\Coursework\CMP105App\level2.cpp(30,42): warning C4244:         ]
+E:\visual\fork\Coursework\CMP105App\level2.cpp(64,80): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+E:\visual\fork\Coursework\CMP105App\level2.cpp(64,80): warning C4244:         with
+E:\visual\fork\Coursework\CMP105App\level2.cpp(64,80): warning C4244:         [
+E:\visual\fork\Coursework\CMP105App\level2.cpp(64,80): warning C4244:             T=float
+E:\visual\fork\Coursework\CMP105App\level2.cpp(64,80): warning C4244:         ]
+E:\visual\fork\Coursework\CMP105App\level2.cpp(64,53): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+E:\visual\fork\Coursework\CMP105App\level2.cpp(64,53): warning C4244:         with
+E:\visual\fork\Coursework\CMP105App\level2.cpp(64,53): warning C4244:         [
+E:\visual\fork\Coursework\CMP105App\level2.cpp(64,53): warning C4244:             T=float
+E:\visual\fork\Coursework\CMP105App\level2.cpp(64,53): warning C4244:         ]
+E:\visual\fork\Coursework\CMP105App\level2.cpp(66,79): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+E:\visual\fork\Coursework\CMP105App\level2.cpp(66,79): warning C4244:         with
+E:\visual\fork\Coursework\CMP105App\level2.cpp(66,79): warning C4244:         [
+E:\visual\fork\Coursework\CMP105App\level2.cpp(66,79): warning C4244:             T=unsigned int
+E:\visual\fork\Coursework\CMP105App\level2.cpp(66,79): warning C4244:         ]
+E:\visual\fork\Coursework\CMP105App\level2.cpp(66,55): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+E:\visual\fork\Coursework\CMP105App\level2.cpp(66,55): warning C4244:         with
+E:\visual\fork\Coursework\CMP105App\level2.cpp(66,55): warning C4244:         [
+E:\visual\fork\Coursework\CMP105App\level2.cpp(66,55): warning C4244:             T=unsigned int
+E:\visual\fork\Coursework\CMP105App\level2.cpp(66,55): warning C4244:         ]
+E:\visual\fork\Coursework\CMP105App\level2.cpp(205,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\visual\fork\Coursework\CMP105App\level2.cpp(308,20): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Main.cpp
+E:\visual\fork\Coursework\CMP105App\Main.cpp(71,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Compiling...
+  MenuLevel.cpp
+E:\visual\fork\Coursework\CMP105App\MenuLevel.cpp(12,72): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+E:\visual\fork\Coursework\CMP105App\MenuLevel.cpp(12,72): warning C4244:         with
+E:\visual\fork\Coursework\CMP105App\MenuLevel.cpp(12,72): warning C4244:         [
+E:\visual\fork\Coursework\CMP105App\MenuLevel.cpp(12,72): warning C4244:             T=unsigned int
+E:\visual\fork\Coursework\CMP105App\MenuLevel.cpp(12,72): warning C4244:         ]
+E:\visual\fork\Coursework\CMP105App\MenuLevel.cpp(12,72): warning C4244:         and
+E:\visual\fork\Coursework\CMP105App\MenuLevel.cpp(12,72): warning C4244:         [
+E:\visual\fork\Coursework\CMP105App\MenuLevel.cpp(12,72): warning C4244:             T=float
+E:\visual\fork\Coursework\CMP105App\MenuLevel.cpp(12,72): warning C4244:         ]
+E:\visual\fork\Coursework\CMP105App\MenuLevel.cpp(12,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+E:\visual\fork\Coursework\CMP105App\MenuLevel.cpp(12,51): warning C4244:         with
+E:\visual\fork\Coursework\CMP105App\MenuLevel.cpp(12,51): warning C4244:         [
+E:\visual\fork\Coursework\CMP105App\MenuLevel.cpp(12,51): warning C4244:             T=unsigned int
+E:\visual\fork\Coursework\CMP105App\MenuLevel.cpp(12,51): warning C4244:         ]
+E:\visual\fork\Coursework\CMP105App\MenuLevel.cpp(12,51): warning C4244:         and
+E:\visual\fork\Coursework\CMP105App\MenuLevel.cpp(12,51): warning C4244:         [
+E:\visual\fork\Coursework\CMP105App\MenuLevel.cpp(12,51): warning C4244:             T=float
+E:\visual\fork\Coursework\CMP105App\MenuLevel.cpp(12,51): warning C4244:         ]
+E:\visual\fork\Coursework\CMP105App\MenuLevel.cpp(18,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+E:\visual\fork\Coursework\CMP105App\MenuLevel.cpp(18,52): warning C4244:         with
+E:\visual\fork\Coursework\CMP105App\MenuLevel.cpp(18,52): warning C4244:         [
+E:\visual\fork\Coursework\CMP105App\MenuLevel.cpp(18,52): warning C4244:             T=float
+E:\visual\fork\Coursework\CMP105App\MenuLevel.cpp(18,52): warning C4244:         ]
+  Physics.cpp
+  Player.cpp
+  Shotgun.cpp
+  Treats.cpp
+  ProjectileGod.cpp
+  Sword.cpp
+E:\visual\fork\Coursework\CMP105App\Sword.cpp(59,83): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  SwordSwing.cpp
+E:\visual\fork\Coursework\CMP105App\SwordSwing.cpp(25,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\visual\fork\Coursework\CMP105App\SwordSwing.cpp(40,9): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+  Tree.cpp
+  UI.cpp
+E:\visual\fork\Coursework\CMP105App\UI.cpp(17,22): warning C4305: 'argument': truncation from 'double' to 'T'
+E:\visual\fork\Coursework\CMP105App\UI.cpp(17,22): warning C4305:         with
+E:\visual\fork\Coursework\CMP105App\UI.cpp(17,22): warning C4305:         [
+E:\visual\fork\Coursework\CMP105App\UI.cpp(17,22): warning C4305:             T=float
+E:\visual\fork\Coursework\CMP105App\UI.cpp(17,22): warning C4305:         ]
+E:\visual\fork\Coursework\CMP105App\UI.cpp(17,19): warning C4305: 'argument': truncation from 'double' to 'T'
+E:\visual\fork\Coursework\CMP105App\UI.cpp(17,19): warning C4305:         with
+E:\visual\fork\Coursework\CMP105App\UI.cpp(17,19): warning C4305:         [
+E:\visual\fork\Coursework\CMP105App\UI.cpp(17,19): warning C4305:             T=float
+E:\visual\fork\Coursework\CMP105App\UI.cpp(17,19): warning C4305:         ]
+E:\visual\fork\Coursework\CMP105App\UI.cpp(75,61): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+E:\visual\fork\Coursework\CMP105App\UI.cpp(75,61): warning C4244:         with
+E:\visual\fork\Coursework\CMP105App\UI.cpp(75,61): warning C4244:         [
+E:\visual\fork\Coursework\CMP105App\UI.cpp(75,61): warning C4244:             T=unsigned int
+E:\visual\fork\Coursework\CMP105App\UI.cpp(75,61): warning C4244:         ]
+E:\visual\fork\Coursework\CMP105App\UI.cpp(75,61): warning C4244:         and
+E:\visual\fork\Coursework\CMP105App\UI.cpp(75,61): warning C4244:         [
+E:\visual\fork\Coursework\CMP105App\UI.cpp(75,61): warning C4244:             T=float
+E:\visual\fork\Coursework\CMP105App\UI.cpp(75,61): warning C4244:         ]
+E:\visual\fork\Coursework\CMP105App\UI.cpp(74,82): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+E:\visual\fork\Coursework\CMP105App\UI.cpp(74,82): warning C4244:         with
+E:\visual\fork\Coursework\CMP105App\UI.cpp(74,82): warning C4244:         [
+E:\visual\fork\Coursework\CMP105App\UI.cpp(74,82): warning C4244:             T=unsigned int
+E:\visual\fork\Coursework\CMP105App\UI.cpp(74,82): warning C4244:         ]
+E:\visual\fork\Coursework\CMP105App\UI.cpp(74,82): warning C4244:         and
+E:\visual\fork\Coursework\CMP105App\UI.cpp(74,82): warning C4244:         [
+E:\visual\fork\Coursework\CMP105App\UI.cpp(74,82): warning C4244:             T=float
+E:\visual\fork\Coursework\CMP105App\UI.cpp(74,82): warning C4244:         ]
+E:\visual\fork\Coursework\CMP105App\UI.cpp(101,62): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+E:\visual\fork\Coursework\CMP105App\UI.cpp(101,62): warning C4244:         with
+E:\visual\fork\Coursework\CMP105App\UI.cpp(101,62): warning C4244:         [
+E:\visual\fork\Coursework\CMP105App\UI.cpp(101,62): warning C4244:             T=unsigned int
+E:\visual\fork\Coursework\CMP105App\UI.cpp(101,62): warning C4244:         ]
+E:\visual\fork\Coursework\CMP105App\UI.cpp(101,62): warning C4244:         and
+E:\visual\fork\Coursework\CMP105App\UI.cpp(101,62): warning C4244:         [
+E:\visual\fork\Coursework\CMP105App\UI.cpp(101,62): warning C4244:             T=float
+E:\visual\fork\Coursework\CMP105App\UI.cpp(101,62): warning C4244:         ]
+E:\visual\fork\Coursework\CMP105App\UI.cpp(100,83): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+E:\visual\fork\Coursework\CMP105App\UI.cpp(100,83): warning C4244:         with
+E:\visual\fork\Coursework\CMP105App\UI.cpp(100,83): warning C4244:         [
+E:\visual\fork\Coursework\CMP105App\UI.cpp(100,83): warning C4244:             T=unsigned int
+E:\visual\fork\Coursework\CMP105App\UI.cpp(100,83): warning C4244:         ]
+E:\visual\fork\Coursework\CMP105App\UI.cpp(100,83): warning C4244:         and
+E:\visual\fork\Coursework\CMP105App\UI.cpp(100,83): warning C4244:         [
+E:\visual\fork\Coursework\CMP105App\UI.cpp(100,83): warning C4244:             T=float
+E:\visual\fork\Coursework\CMP105App\UI.cpp(100,83): warning C4244:         ]
+  WeaponGod.cpp
+E:\visual\fork\Coursework\CMP105App\WeaponGod.cpp(68,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  CMP105App.vcxproj -> E:\visual\fork\Coursework\x64\Debug\CMP105App.exe
